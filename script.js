@@ -6,6 +6,8 @@ botaocurtir.{addeventistener("click",curtir);
  const contador= botaocurtir.queryselector("span);
     if (cortir===false) {
          contador.textcontent++;
-          curtiu=true;}
+          curtiu = true;}
+      } else
+
 
 
